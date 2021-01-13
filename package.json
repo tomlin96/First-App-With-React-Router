@@ -1,6 +1,6 @@
 {
-  "homepage": "https://tomlin96.github.io/Page-Example/",
-  "name": "strona_podstawowa",
+  "homepage": "https://tomlin96.github.io/First-App-With-React-Router/",
+  "name": "First-App-With-React-Router",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
